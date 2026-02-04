@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: CLV-Prediction-Project
+Version: 0.1
+Author: Abrar Tauqueer Modassir
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
